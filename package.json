@@ -10,9 +10,7 @@
     "type": "git",
     "url": "https://github.com/aprock/react-native-os"
   },
-  "bundleDependencies": false,
   "deprecated": false,
-  "description": "node's os module for react-native",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint-plugin-react": "^3.11.3"
@@ -26,7 +24,7 @@
     "ios",
     "android"
   ],
-  "license": "MIT"
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/aprock/react-native-os/issues"
   }
